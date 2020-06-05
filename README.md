@@ -1,7 +1,7 @@
 # Nature-Game
-Game code for CPE 203 *made public solely for ENGL-149 Website Portfolio*
+Game code from CPE 203 *made public solely for ENGL-149 Website Portfolio*
 
-The game displays normal environment with Miners and Ores. Miners will  walk around to retrieve ores and give them to the Blacksmiths. However, random blobs will appear and slowly find the nearest ore to destroy. Use the arrow keys to navigate through the screen.  
+The game displays a peaceful environment with miners and ores. Miners will  walk around to retrieve ores and give them to the Blacksmiths. However, random blobs will appear and slowly find the nearest ore to destroy. Use the arrow keys to navigate through the screen!  
 
 1. The player triggers an event through a mouse-click anywhere on screen.
 2. Surrounding tiles turn to dirt in a '+' formation with four dirt tiles on each corner, and a Raccoon spawns in the middle. The nearest Blacksmith turns into a moving snail. 
